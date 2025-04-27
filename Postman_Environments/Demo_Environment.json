@@ -1,0 +1,13 @@
+{
+  "id": "demo-env-id",
+  "name": "Demo Environment",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://jsonplaceholder.typicode.com",
+      "enabled": true
+    }
+  ],
+  "timestamp": 0,
+  "_postman_variable_scope": "environment"
+}
